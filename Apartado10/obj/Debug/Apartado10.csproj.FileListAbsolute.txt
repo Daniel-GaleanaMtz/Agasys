@@ -1,0 +1,6 @@
+C:\Users\digis\Documents\Celso Daniel Galeana Martinez\DGaleanaAgasys\Apartado10\bin\Debug\Apartado10.exe.config
+C:\Users\digis\Documents\Celso Daniel Galeana Martinez\DGaleanaAgasys\Apartado10\bin\Debug\Apartado10.exe
+C:\Users\digis\Documents\Celso Daniel Galeana Martinez\DGaleanaAgasys\Apartado10\bin\Debug\Apartado10.pdb
+C:\Users\digis\Documents\Celso Daniel Galeana Martinez\DGaleanaAgasys\Apartado10\obj\Debug\Apartado10.csprojResolveAssemblyReference.cache
+C:\Users\digis\Documents\Celso Daniel Galeana Martinez\DGaleanaAgasys\Apartado10\obj\Debug\Apartado10.exe
+C:\Users\digis\Documents\Celso Daniel Galeana Martinez\DGaleanaAgasys\Apartado10\obj\Debug\Apartado10.pdb
